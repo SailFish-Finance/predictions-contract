@@ -75,22 +75,20 @@ When the **5-minute round** finishes, results are calculated automatically.
 ### Checking Older Rounds
 
 1. Click the **clock icon** next to the round timer.
-
-   ![Screenshot](link-to-image)
+<img width="1024" alt="Address modal0" src="https://github.com/user-attachments/assets/1f2d4aa4-cb7c-4b31-8222-b18991bdf1ef" />
 
 2. A **"History"** panel appears. Click on any round to view details.
-
-   ![Screenshot](link-to-image)
+<img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/cc9ba693-3411-4269-a116-4327cf35b71a" />
 
 ## Collecting Winnings
 
 1. If you won, a **"Collect Winnings"** button with a **trophy icon** will appear. Click it.
 
-   ![Screenshot](link-to-image)
+<img width="1024" alt="Address modal0" src="https://github.com/user-attachments/assets/394554cb-cb00-4545-91f5-e57e8bebbe87" />
 
-2. A confirmation window appears showing your winnings. Click **Confirm** and approve the transaction in your wallet.
+2. A confirmation window appears showing your winnings. Click **Claim now** and approve the transaction in your wallet.
 
-   ![Screenshot](link-to-image)
+<img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/9db6a710-669a-4d76-ae96-b825665c4045" />
 
 Your winnings are now in your wallet.
 
@@ -98,15 +96,15 @@ Your winnings are now in your wallet.
 
 1. Click the **clock icon** next to the round timer.
 
-   ![Screenshot](link-to-image)
+<img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/0c9444c6-744f-4a06-993c-b42e315e3301" />
 
 2. In the **"History"** panel, select **Uncollected** to view rounds with unclaimed winnings. Click **Collect.**
 
-   ![Screenshot](link-to-image)
+<img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/440f70be-4b8a-46ec-9d3b-cc041e694553" />
 
 3. A confirmation window appears. Click **Confirm** and approve the transaction in your wallet.
 
-   ![Screenshot](link-to-image)
+<img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/63b06952-475b-4055-9bae-d6c3f2a08f53" />
 
 Your winnings are now in your wallet.
 
@@ -115,15 +113,21 @@ Your winnings are now in your wallet.
 To track your overall performance:
 
 1. Click the **clock icon** on the Prediction page to open the **"History"** panel.
-
-   ![Screenshot](link-to-image)
+<img width="597" alt="Screenshot 2025-03-21 at 1 46 01 pm" src="https://github.com/user-attachments/assets/be46aefe-6f51-4e2b-afa5-8f75ad1ff10c" />
 
 2. Select the **PNL** tab to view stats like net results, average return, and best round.
+  <img width="338" alt="Address modal (4)" src="https://github.com/user-attachments/assets/3957ae43-80be-4428-8e24-31be4a421605" />
 
-   ![Screenshot](link-to-image)
+### Share your wins 🏆
 
-3. Click **View Reclaimed & Won** to check transactions on the blockchain explorer.
+1. Beside the **Claim your winning** button, click on the share icon to share your wins
 
-   ![Screenshot](link-to-image)
+<img width="521" alt="Screenshot 2025-03-21 at 2 12 08 pm" src="https://github.com/user-attachments/assets/098b8bff-d700-4b5a-8867-34b36c95af42" />
+
+<img width="537" alt="Screenshot 2025-03-21 at 2 12 30 pm" src="https://github.com/user-attachments/assets/35c78d33-7691-4a0d-a2de-f0f56825ea71" />
+
+2. Click the **Download** button to download and share the image on your socials.
+
+<img width="537" alt="Screenshot 2025-03-21 at 2 12 30 pm" src="https://github.com/user-attachments/assets/a1f9ffac-c9de-4f06-8a84-67c6c7320896" />
 
 That’s all! **Good luck making the right calls!** 🚀
