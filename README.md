@@ -8,12 +8,13 @@ SailFish Prediction with V3 Oracle
 
 ### EDU/USDC
 
-- Mainnet: 
+- Mainnet: 0x0
+- Testnet: 0x0
 
 ## Deployment
 
 Verify that `config.js` has the correct information
-Uncomment private key usage lines in `hardhat.config.js` (line 44, 49)
+Uncomment private key usage lines in `hardhat.config.js`
 
 ```
 export PK=PRIVATE_KEY
