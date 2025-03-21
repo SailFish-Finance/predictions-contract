@@ -102,7 +102,7 @@ Your winnings are now in your wallet.
 
 <img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/440f70be-4b8a-46ec-9d3b-cc041e694553" />
 
-3. A confirmation window appears. Click **Confirm** and approve the transaction in your wallet.
+3. A confirmation window appears. Click **Claim now** and approve the transaction in your wallet.
 
 <img width="338" alt="Address modal0" src="https://github.com/user-attachments/assets/63b06952-475b-4055-9bae-d6c3f2a08f53" />
 
