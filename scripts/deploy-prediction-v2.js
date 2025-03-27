@@ -15,7 +15,7 @@ async function main() {
     adminAddress, // _adminAddress
     adminAddress, // _operatorAddress
     300, // _intervalSeconds (300sec ~ 5 mins)
-    30, //_bufferSeconds
+    60, //_bufferSeconds
     ethers.parseEther("5"), // _minBetAmount 5 EDU
     300, //_oracleUpdateAllowance in seconds
     300 //_treasuryFee
@@ -31,4 +31,4 @@ main();
 
 //npx hardhat run scripts/deploy-prediction-v2.js --network educhain
 
-// npx hardhat verify 0xE0ed4Af5E0c9De112fcdb195a5e232Ba7087380f 0xe5301c31445f1392fBAdF04a404857587D142c95 0xb31799Bd84E1731F186AaBb2BDFEb0fe3818e480 0xb31799Bd84E1731F186AaBb2BDFEb0fe3818e480  300 30 5000000000000000000 300 300 --network educhain
+// npx hardhat verify 0x649a201Fe58a369fA45cFD3adbE20bCB855262c9 0xe5301c31445f1392fBAdF04a404857587D142c95 0xb31799Bd84E1731F186AaBb2BDFEb0fe3818e480 0xb31799Bd84E1731F186AaBb2BDFEb0fe3818e480  300 30 5000000000000000000 300 300 --network educhain
