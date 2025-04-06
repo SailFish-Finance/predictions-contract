@@ -8,8 +8,8 @@ SailFish Prediction with V3 Oracle
 
 ### EDU/USDC
 
-- Oracle EDU/USDC Miannet: 0xe5301c31445f1392fBAdF04a404857587D142c95
-- Prediction Mainnet: 0x649a201Fe58a369fA45cFD3adbE20bCB855262c9
+- Oracle EDU/USDC Miannet: 0xb80a2820eD522878504D9B46245D1112b2eFf3D9
+- Prediction Mainnet: 0x78F948BeC290213b96BE65F0CCfc54d6A45C2047
 
 ## Deployment
 
